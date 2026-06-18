@@ -224,5 +224,4 @@ tr:hover{
     © 2026 College Assignment Submission Tracker
 </div>
 
-</di
-  v>
+</div>
